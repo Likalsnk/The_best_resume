@@ -7,10 +7,61 @@ body {
 
 
 img {
-	width: 280px;
+	width: 180px;
     margin-left: auto;
   margin-right: auto;
   display: block;
 
 } 
 	
+.titles__first {
+	font-size: 20px;
+	color: 000;
+	text-align: center;
+	margin-top: 20px;
+}
+h1 {
+	font-size: 14px;
+	color: 000;
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: lighter;
+	margin-top: 8px;
+
+}
+	
+
+h3 {
+	font-size: 14px;
+	color: 000;
+	text-align: center;
+	font-weight: lighter;
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-top: 100px;
+
+}
+.about_me_part {
+	padding: 0;
+	margin: 0;
+	justify-content: center;
+    display: flex;
+    margin-right: -20px;
+    
+}
+.about_me_part li {
+
+	display: block;
+	float: left;
+	margin-right: 20px;
+
+
+}
+.about_me_part p {
+	font-size: 14px;
+	color: 000;
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: lighter;
+	
+}
